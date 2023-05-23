@@ -1,5 +1,3 @@
-## EX.NO.5
-## DATE: 11.11.2022
 # <p align="center">  Implementation-of-XOR-using-RBF</p>
 
 
